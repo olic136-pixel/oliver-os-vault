@@ -1,6 +1,6 @@
 ---
 created: '2026-04-08'
-last_reviewed: '2026-04-08'
+last_reviewed: '2026-04-09'
 type: system
 ---
 
@@ -24,6 +24,9 @@ The classification agent uses these lists to tag incoming captures. Update them 
 - Human8-CRM
 - Human8-Roblodex
 - Human8-Nodex
+- Human8-BIT
+- Human8-School
+- Emerging-Stubs
 
 ### Entities
 - Fuutura Treasury Inc
@@ -36,6 +39,7 @@ The classification agent uses these lists to tag incoming captures. Update them 
 - TradeDar
 - Oliver Cook KC
 - Cook Family
+- Blue Ocean Academy
 
 ### Jurisdictions
 - England and Wales Criminal
@@ -51,6 +55,7 @@ The classification agent uses these lists to tag incoming captures. Update them 
 
 ### People
 - Jez Noah Ali
+- Jezz
 - IK
 - Ellis
 - Torres Legal
@@ -60,16 +65,21 @@ The classification agent uses these lists to tag incoming captures. Update them 
 - Gabe
 - Ammar
 - Tai
-- Hub71
 - Fran
 - Jack
 - Alex
+- Gary Douglas
 - Libertas Clerks
+- MB
+- Bu Eshaaq Ahmed
+- Janyl Alpadis
+- Ollie Shewan
+- Ismail
 
 ## Source tags
 | Source | Tag | Notes |
 |--------|-----|-------|
-| WhatsApp | `whatsapp` | Via WasenderAPI MCP |
+| WhatsApp | `whatsapp` | Via WasenderAPI webhook |
 | Gmail | `gmail` | Via Gmail MCP |
 | M365 email | `m365` | Via Microsoft Graph MCP |
 | PLAUD device | `plaud` | Via plaud-sync-for-obsidian |
@@ -77,6 +87,27 @@ The classification agent uses these lists to tag incoming captures. Update them 
 | Instagram | `instagram` | Via forward-to-email habit |
 | Voice memo | `voice` | Via Whisper endpoint or direct dictation |
 | Manual | `manual` | Direct entry |
+
+## Project keyword mappings (for webhook classifier)
+| Project | Keywords |
+|---------|---------|
+| Fuutura-Token | ftra, whitepaper, tokenomics, tppa |
+| Fuutura-Exchange | dasp, el salvador, operating partner, fuutura exchange, fuutura ops |
+| Qanun-Platform | qanun, malis, lexis, compliance studio |
+| Libertas-Practice | libertas, chambers, brief, hearing, trial, pcmh, ptph, palmer |
+| Dubai-Law-Firm | dubai law, difc law, law firm, brigadeer |
+| TradeDar | tradedar |
+| Abu-Dhabi-Relocation | abu dhabi, yas island, al raha, relocation |
+| Wife-Health | healthcare ecosystem (Fran context) |
+| Human8 | human8, humanate |
+| Human8-Qlarifai | qlarifai, qlarif, cqc, care home, sop |
+| Human8-BIT | bit, business intelligence twin |
+| Human8-School | blue ocean, school project, freehold, liverpool school |
+| Human8-Roblodex | roblodex |
+| Human8-Nodex | nodex |
+| Human8-CRM | patient management |
+| CoLab-App | colab |
+| China-Gas-Deal | china, gas deal |
 
 ## Classification rules
 
