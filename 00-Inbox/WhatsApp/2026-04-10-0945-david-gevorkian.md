@@ -6,9 +6,9 @@ created: 2026-04-10
 from: "David Gevorkian"
 chat: "154525071589538"
 is_group: false
-projects: ["TradeDar"]
+projects: []
 people: ["David-Gevorkian"]
-tags: ["whatsapp", "inbox"]
+tags: ["action-item", "whatsapp", "inbox"]
 ---
 
 # WhatsApp — David Gevorkian — 10 Apr 2026 09:45
@@ -18,35 +18,13 @@ tags: ["whatsapp", "inbox"]
 
 ## Message
 
-David Gevorkian is inviting you to a scheduled Zoom meeting.
-
-Topic: Tradedar (All hands) - The Race Starts
-Time: Apr 10, 2026 01:45 PM Dubai
-Join Zoom Meeting
-https://us05web.zoom.us/j/82000087716
-
-Meeting ID: 820 0008 7716
-
----
-
-One tap mobile
-+13863475053,,82000087716# US
-+15074734847,,82000087716# US
-
-
----
-
-Join by SIP
-• 82000087716@zoomcrc.com
-
-Join instructions
-https://us05web.zoom.us/meetings/82000087716/invitations?signature=JW8hampuhyJbQWAOkGagFZuOfIIY3gvMJIy2HEyjhh8
+please join
 
 ## Classification
 
-**Projects:** TradeDar
+**Projects:** None identified
 **People:** David-Gevorkian
-**Tags:** None
+**Tags:** action-item
 
 ## Action items
 - [ ] Review and route
