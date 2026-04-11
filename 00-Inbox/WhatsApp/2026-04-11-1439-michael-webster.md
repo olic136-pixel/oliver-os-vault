@@ -1,0 +1,33 @@
+---
+type: inbox
+status: active
+source: whatsapp
+created: 2026-04-11
+from: "Michael Webster"
+chat: "447759628141-1529837348"
+is_group: true
+projects: []
+people: []
+tags: ["group-message", "whatsapp", "inbox"]
+---
+
+# WhatsApp — Michael Webster — 11 Apr 2026 14:39
+
+**From:** Michael Webster
+**Chat:** 447759628141-1529837348  
+**Group:** Yes
+
+## Message
+
+The boy with the lobster tattoo
+
+## Classification
+
+**Projects:** None identified
+**People:** None identified
+**Tags:** group-message
+
+## Action items
+- [ ] Review and route
+
+## Notes
