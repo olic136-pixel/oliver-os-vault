@@ -18,7 +18,7 @@ tags: ["whatsapp", "inbox"]
 
 ## Message
 
-Morning sounds good 👌
+Ping me when you are available
 
 ## Classification
 
