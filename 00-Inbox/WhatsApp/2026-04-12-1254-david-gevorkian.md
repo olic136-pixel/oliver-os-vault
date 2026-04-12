@@ -6,7 +6,7 @@ created: 2026-04-12
 from: "David Gevorkian"
 chat: "154525071589538"
 is_group: false
-projects: ["Human8-BIT"]
+projects: []
 people: ["David-Gevorkian"]
 tags: ["whatsapp", "inbox"]
 ---
@@ -18,11 +18,11 @@ tags: ["whatsapp", "inbox"]
 
 ## Message
 
-Yes sorry abit busy
+Morning sounds good 👌
 
 ## Classification
 
-**Projects:** Human8-BIT
+**Projects:** None identified
 **People:** David-Gevorkian
 **Tags:** None
 
