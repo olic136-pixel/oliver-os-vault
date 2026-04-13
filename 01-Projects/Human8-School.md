@@ -96,3 +96,9 @@ Gabe proposed the Amazon "Single-Threaded Lever" model for roles and accountabil
 ## Linked notes
 - [[03-People/Ismail]]
 - [[01-Projects/Human8]]
+
+## Recordings
+- [[00-Inbox/PLAUD/plaud-2026-03-04-03-04-meeting-corporate-structure-and-fundraising-strategy|03-04 Meeting: Corporate Structure and Fundraising Strategy — 2026-03-04]]
+- [[00-Inbox/PLAUD/plaud-2026-01-14-01-14-meeting-unified-corporate-structure-investor-financing-tax-strategy-and-roles-alignment|01-14 Meeting: Unified Corporate Structure, Investor Financing, Tax Strategy, and Roles Alignment — 2026-01-14]]
+- [[00-Inbox/PLAUD/plaud-2026-01-12-01-12-legal-meeting-company-fines-and-school-land-dispute|01-12 Legal Meeting: Company Fines and School Land Dispute — 2026-01-12]]
+- [[00-Inbox/PLAUD/plaud-2026-01-04-01-04-meeting-unified-healthcare-platform-patient-os-cqc-auditing-ai-and-business-strategy|01-04 Meeting: Unified Healthcare Platform (Patient OS), CQC Auditing AI, and Business Strategy — 2026-01-04]]

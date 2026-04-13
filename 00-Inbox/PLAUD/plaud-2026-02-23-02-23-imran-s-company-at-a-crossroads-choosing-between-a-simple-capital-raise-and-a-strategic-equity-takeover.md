@@ -6,7 +6,7 @@ title: "02-23 Imran's Company at a Crossroads: Choosing Between a Simple Capital
 date: 2026-02-23
 duration: 15 min
 projects: [TradeDar]
-people: [oliver-cook, ik-imran, david-gevorkian, ahmed]
+people: [oliver-cook, IK, david-gevorkian, ahmed]
 jurisdictions: [UAE]
 tags: [capital-raise, equity-negotiation, fundraising, newco-proposal, term-sheet]
 status: active
@@ -133,5 +133,5 @@ Speaker 2: Okay, all right, man. See you later.
 - Decision on whether to proceed with David G or revert to simple capital raise (Path A)
 - Template needs to be reworked before showing to Imran
 
-**Projects:** TradeDar
-**People:** oliver-cook, ik-imran, david-gevorkian, ahmed
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]], [[03-People/David-Gevorkian]], [[03-People/Ahmed]]

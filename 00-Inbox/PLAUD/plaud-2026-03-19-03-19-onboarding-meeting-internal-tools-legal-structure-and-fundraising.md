@@ -6,7 +6,7 @@ title: "03-19 Onboarding Meeting: Internal Tools, Legal Structure, and Fundraisi
 date: 2026-03-19
 duration: 17 min
 projects: [TradeDar]
-people: [david-gevorkian, oliver-cook, ik-imran, ahmed]
+people: [david-gevorkian, oliver-cook, IK, ahmed]
 jurisdictions: [ADGM]
 tags: [onboarding, asana, slack, corporate-structure, fundraising, task-management]
 status: active
@@ -132,5 +132,5 @@ Speaker 3: Okay, well I won't leave it too lateum. I'll see how we get on. All r
 - Ahmed to provide investor list based on defined investor profile
 - Initial T1 fundraising meeting to define raise parameters still to be scheduled
 
-**Projects:** TradeDar
-**People:** david-gevorkian, oliver-cook, ik-imran, ahmed
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[03-People/David-Gevorkian]], [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]], [[03-People/Ahmed]]

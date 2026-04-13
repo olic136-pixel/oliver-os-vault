@@ -6,7 +6,7 @@ title: "03-02 Project Meeting: Company Setup, Token Launch Sequencing, PR Narrat
 date: 2026-03-02
 duration: 19 min
 projects: [Fuutura-Token, Fuutura-Exchange]
-people: [oliver-cook, ik-imran, jez]
+people: [oliver-cook, IK, jez]
 jurisdictions: [BVI, Pakistan, UAE]
 tags: [token-launch, DEX-listing, centralized-exchange, PR-narrative, liquidity-strategy, Pakistan-centric]
 status: active
@@ -182,5 +182,5 @@ Speaker 2: Whatever fine, all right. I'll get that done in the next five minutes
 - Technical session on liquidity routing, lockups, and market-making parameters needed
 - Media assets (photos, names, titles) for Pakistan dev team to be collected
 
-**Projects:** Fuutura-Token, Fuutura-Exchange
-**People:** oliver-cook, ik-imran, jez
+**Projects:** [[01-Projects/Fuutura-Token]], [[01-Projects/Fuutura-Exchange]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]], [[03-People/Jez-Noah-Ali]]

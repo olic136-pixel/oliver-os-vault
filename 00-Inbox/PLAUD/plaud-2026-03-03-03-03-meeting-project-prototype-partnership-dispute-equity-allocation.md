@@ -6,7 +6,7 @@ title: "03-03 Meeting: Project Prototype, Partnership Dispute & Equity Allocatio
 date: 2026-03-03
 duration: 43 min
 projects: [TradeDar]
-people: [oliver-cook, ik-imran, david-gevorkian, ahmed]
+people: [oliver-cook, IK, david-gevorkian, ahmed]
 jurisdictions: [UAE]
 tags: [prototype-demo, equity-dispute, partnership-structure, vesting, trading-engine, contribution-valuation]
 status: active
@@ -166,5 +166,5 @@ Speaker 2: Okay, well I'll see you atum, Five o'clock your time. See you later.
 - No formal partnership structure, vesting schedules, or shareholder agreements discussed yet
 - Conclusive go/no-go decision on proceeding together or separately still pending
 
-**Projects:** TradeDar
-**People:** oliver-cook, ik-imran, david-gevorkian, ahmed
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]], [[03-People/David-Gevorkian]], [[03-People/Ahmed]]

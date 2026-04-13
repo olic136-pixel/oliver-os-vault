@@ -82,3 +82,7 @@ Oliver is relocating the Cook family from the UK (Storrington) to Abu Dhabi — 
 | | Al Raha / Yas Island as target area | Oliver, Fran |
 | | Investor / business owner visa route | Oliver |
 | | Jack moves Year 1, Alex Year 2 | Oliver, Fran |
+
+## Recordings
+- [[00-Inbox/PLAUD/plaud-2026-03-24-03-24-conversation-summary-family-safety-remote-operations-regulatory-meetings-and-ai-migration|03-24 Conversation Summary: Family Safety, Remote Operations, Regulatory Meetings, and AI Migration — 2026-03-24]]
+- [[00-Inbox/PLAUD/plaud-2025-11-06-11-06-arrangement-meeting-uae-branch-setup-licensing-client-management-for-uk-expat-legal-services|11-06 Arrangement Meeting: UAE Branch Setup, Licensing & Client Management for UK/Expat Legal Services — 2025-11-06]]

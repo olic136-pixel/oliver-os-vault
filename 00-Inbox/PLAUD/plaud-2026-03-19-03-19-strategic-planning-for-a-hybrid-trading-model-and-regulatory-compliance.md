@@ -178,5 +178,5 @@ Speaker 2: I'll give him a corner. He was meant to be here at midday, so he's on
 - Follow-up meeting to define "dream state" model planned for next couple of months
 - Recording and transcript to be sent to David
 
-**Projects:** TradeDar
-**People:** oliver-cook, david-gevorkian
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/David-Gevorkian]]

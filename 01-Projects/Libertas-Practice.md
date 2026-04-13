@@ -72,3 +72,12 @@ EncroChat expertise is Oliver's international differentiator. Relevant to:
 - Libertas Chambers established practice
 - EncroChat litigation — significant appellate jurisprudence involvement
 - Complex financial crime — fraud, POCA, money laundering
+
+## Recordings
+- [[00-Inbox/PLAUD/plaud-2026-02-04-02-04-consultation-trevor-mal-insolvency-personal-debt|02-04 Consultation: Trevor - MAL Insolvency & Personal Debt — 2026-02-04]]
+- [[00-Inbox/PLAUD/plaud-2026-02-03-02-03-strategic-review-of-company-viability-and-partnership-proposal|02-03 Strategic Review of Company Viability and Partnership Proposal — 2026-02-03]]
+- [[00-Inbox/PLAUD/plaud-2026-01-14-01-14-strategic-litigation-plan-to-secure-disclosure-for-a-belgian-pretrial-detainee|01-14 Strategic Litigation Plan to Secure Disclosure for a Belgian Pretrial Detainee — 2026-01-14]]
+- [[00-Inbox/PLAUD/plaud-2025-12-04-12-04-planning-session-blind-trust-structuring-jurisdiction-selection-and-trustee-governance|12-04 Planning Session: Blind Trust Structuring, Jurisdiction Selection, and Trustee Governance — 2025-12-04]]
+- [[00-Inbox/PLAUD/plaud-2025-11-11-11-11-legal-case-respondent-s-account|11-11 Legal Case: Respondent's Account — 2025-11-11]]
+- [[00-Inbox/PLAUD/plaud-2025-11-05-11-05-financial-strategy-meeting-budget-lender-issues-and-refinancing-proposal|11-05 Financial Strategy Meeting: Budget, Lender Issues, and Refinancing Proposal — 2025-11-05]]
+- [[00-Inbox/PLAUD/plaud-2025-10-31-10-31-strategy-session-charity-asset-recovery-professional-negligence-and-title-restitution|10-31 Strategy Session: Charity Asset Recovery, Professional Negligence, and Title Restitution — 2025-10-31]]

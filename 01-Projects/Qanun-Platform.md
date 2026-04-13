@@ -84,3 +84,12 @@ Qanun provides AI-powered regulatory intelligence for compliance professionals o
 - Competitive analysis completed vs aosphere, Regology, Harvey, Legora
 - Full brand identity and design system established
 - Production deployment on Hetzner with webhook-based auto-deploy
+
+## Recordings
+- [[00-Inbox/PLAUD/plaud-2025-11-06-11-06-meeting-difc-law-firm-launch-emi-acquisition-valuation-and-legal-ai-q-ai-partnerships|11-06 Meeting: DIFC Law Firm Launch, EMI Acquisition Valuation, and Legal AI (Q-AI) Partnerships — 2025-11-06]]
+- [[00-Inbox/PLAUD/plaud-2025-11-05-11-05-meeting-ai-document-processing-and-whiteboard-feature-design|11-05 Meeting: AI Document Processing and Whiteboard Feature Design — 2025-11-05]]
+- [[00-Inbox/PLAUD/plaud-2025-11-04-11-04-meeting-law-firm-platform-client-onboarding-business-model|11-04 Meeting: Law Firm Platform, Client Onboarding & Business Model — 2025-11-04]]
+- [[00-Inbox/PLAUD/plaud-2025-11-04-11-04-meeting-summary-legal-case-management-platform-workflow-features-and-billing-models|11-04 Meeting Summary: Legal Case Management Platform Workflow, Features, and Billing Models — 2025-11-04]]
+- [[00-Inbox/PLAUD/plaud-2025-11-03-11-03-design-review-agent-whiteboard-for-legal-case-analysis-and-court-presentation|11-03 Design Review: Agent Whiteboard for Legal Case Analysis and Court Presentation — 2025-11-03]]
+- [[00-Inbox/PLAUD/plaud-2025-11-03-11-03-meeting-kyc-aml-subscription-model-and-law-firm-integration-strategy|11-03 Meeting: KYC/AML, Subscription Model, and Law Firm Integration Strategy — 2025-11-03]]
+- [[00-Inbox/PLAUD/plaud-2025-11-03-11-03-meeting-minutes-legal-case-management-portal-kyc-aml-automation-conflict-checks-access-control-and-phase-2-delivery|11-03 Meeting Minutes: Legal Case Management Portal – KYC/AML Automation, Conflict Checks, Access Control, and Phase 2 Delivery — 2025-11-03]]

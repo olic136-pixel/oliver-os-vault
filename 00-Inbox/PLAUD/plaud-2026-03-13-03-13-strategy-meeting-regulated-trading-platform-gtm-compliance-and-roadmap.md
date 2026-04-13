@@ -115,5 +115,5 @@ Speaker 6: See you all. Thank you. You guys have a good day. Bye- bye.
 - GTM plan with named distribution partners and budget not yet defined
 - Target market licensing requirements for expansion (Korea, Vietnam, EU, US) to be assessed
 
-**Projects:** TradeDar
-**People:** oliver-cook, david-gevorkian, ahmed
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/David-Gevorkian]], [[03-People/Ahmed]]

@@ -9,9 +9,9 @@ projects:
   - Qanun-Platform
   - Dubai-Law-Firm
 people:
-  - oliver-cook
-  - tai
-  - gabe
+  - Oliver-Cook-KC
+  - Tai
+  - Gabe
 jurisdictions:
   - UAE
   - Kuwait
@@ -229,5 +229,5 @@ Speaker 4: Yeah, okay, we'll take a picture of that.
 - Rework existing data model to support new B2B architecture
 - Capture whiteboard diagram of final agreed model for development reference
 
-**Projects:** Qanun-Platform, Dubai-Law-Firm
-**People:** oliver-cook, tai, gabe
+**Projects:** [[01-Projects/Qanun-Platform]], [[01-Projects/Dubai-Law-Firm]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Tai]], [[03-People/Gabe]]

@@ -24,7 +24,7 @@ Looks like we have our own plane
 ## Classification
 
 **Projects:** None identified
-**People:** IK
+**People:** [[03-People/IK]]
 **Tags:** group-message
 
 ## Action items

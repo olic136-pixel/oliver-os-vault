@@ -640,5 +640,5 @@ Speaker: Posters and all of them. Well, that's a trick, sure. It is a trick. It'
 - Monetisation strategy needs formalisation beyond PeachScore benchmarking
 - Work streams feature (routing to human experts) needs detailed design
 
-**Projects:** Human8, Human8-BIT
-**People:** oliver-cook, gabe, ammar
+**Projects:** [[01-Projects/Human8]], [[01-Projects/Human8-BIT]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Ammar]]

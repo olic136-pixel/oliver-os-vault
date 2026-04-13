@@ -255,5 +255,5 @@ Speaker 2: You too. Take care Cheers guys Cheers Cheers Bye.
 - Telegram IP acquisition and Bitcoin Swiss partnership need concrete follow-up actions
 - Initial "Bronze" launch features not yet defined
 
-**Projects:** TradeDar
-**People:** oliver-cook, david-gevorkian, ahmed, ik-imran
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/David-Gevorkian]], [[03-People/Ahmed]], [[03-People/IK]]

@@ -63,3 +63,6 @@ A CRM and patient management software project, adjacent to Qlarifai's CQC compli
 
 ## Notes
 Scope will become clearer in coming weeks. Treat as a stub note — enrich from WhatsApp and project conversations as they come in.
+
+## Recordings
+- [[00-Inbox/PLAUD/plaud-2026-01-26-01-26-weekly-meeting-api-integration-business-structure-and-partnerships|01-26 Weekly Meeting: API Integration, Business Structure, and Partnerships — 2026-01-26]]

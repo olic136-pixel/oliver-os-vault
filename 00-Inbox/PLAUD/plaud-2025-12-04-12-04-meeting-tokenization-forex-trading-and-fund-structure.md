@@ -9,7 +9,7 @@ projects:
   - Fuutura-Token
   - Fuutura-Exchange
 people:
-  - jez
+  - Jez-Noah-Ali
 jurisdictions:
   - US
   - Cayman Islands
@@ -204,5 +204,5 @@ Speaker 1: I was paying, I was paying for life. Like, the thing was complete. Wh
 - Client journey and fund administration mirroring needs deep-dive
 - Tokenomics for "Charlie coin" including lock-up periods to be designed
 
-**Projects:** Fuutura-Token, Fuutura-Exchange
-**People:** Jez
+**Projects:** [[01-Projects/Fuutura-Token]], [[01-Projects/Fuutura-Exchange]]
+**People:** [[03-People/Jez-Noah-Ali]]

@@ -8,8 +8,8 @@ duration: 7 min
 projects:
   - Qanun-Platform
 people:
-  - oliver-cook
-  - tai
+  - Oliver-Cook-KC
+  - Tai
 jurisdictions:
   - England & Wales
 tags:
@@ -139,5 +139,5 @@ Speaker 2: Yeah, I really like him, he's a great man.
 - Define data modules for banking, telephone, witness statements, and location logs
 - Implement drag-and-drop, visual linking, and AI agent controls on the canvas
 
-**Projects:** Qanun-Platform
-**People:** oliver-cook, tai
+**Projects:** [[01-Projects/Qanun-Platform]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Tai]]

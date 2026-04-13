@@ -52,3 +52,4 @@ Tai's presence in Qlarifai but not Human8 is structurally significant — it is 
 - [ ] Qlarifai product — current development stage
 - [ ] CRM project — scope and timeline
 - [ ] Dubai collaboration — Tai's involvement
+| 2026-01 → 2026-04 | WhatsApp | Active in Healthcare Ecosystem (1588msg) and 1-on-1 chat (1133msg) |

@@ -141,5 +141,5 @@ Speaker 1: Thank you. Bye- bye.
 - Oliver's longer-term project details to be shared in next meeting
 - Rubi confirmed they do not have quant analysts (hedge fund focus); their strength is fundamental research for buy-side firms
 
-**Projects:** Human8
-**People:** oliver-cook, gabe, ammar
+**Projects:** [[01-Projects/Human8]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Ammar]]

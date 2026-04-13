@@ -255,5 +255,5 @@ Speaker 3: Okay, bye-bye. Shalom.
 - Final decision on CIC vs CLG for SchoolCo
 - Oliver to update Gabe on meeting outcomes
 
-**Projects:** Human8-School
-**People:** oliver-cook, ismail, ammar, ahmed, gabe
+**Projects:** [[01-Projects/Human8-School]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Ismail]], [[03-People/Ammar]], [[03-People/Ahmed]], [[03-People/Gabe]]

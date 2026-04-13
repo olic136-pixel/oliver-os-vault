@@ -249,5 +249,5 @@ Speaker 1: Take care. See you later.
 - Trevor's personal HMRC bankruptcy matter (253k GBP) needs urgent legal attention
 - Trevor to send demonstration videos of battery technology
 
-**Projects:** Libertas-Practice
-**People:** oliver-cook, ik-imran
+**Projects:** [[01-Projects/Libertas-Practice]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]]

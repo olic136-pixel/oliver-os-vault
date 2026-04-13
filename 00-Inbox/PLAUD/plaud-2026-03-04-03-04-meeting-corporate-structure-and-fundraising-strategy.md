@@ -500,5 +500,5 @@ Speaker 1: Thank you very much. Thank you very much, Doctor. And, we want to fin
 - Sharia compliance consultation needed for waqf fund usage
 - Gabe to create STL structure and conduct one-on-one role scoping with each partner
 
-**Projects:** Human8-School
-**People:** oliver-cook, gabe, dr-latim, bu-eshaaq-ahmed
+**Projects:** [[01-Projects/Human8-School]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], dr-latim (person not yet in vault), [[03-People/Bu-Eshaaq-Ahmed]]

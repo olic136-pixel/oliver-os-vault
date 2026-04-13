@@ -13,7 +13,7 @@ tags: ["whatsapp", "inbox"]
 
 # WhatsApp — David Gevorkian — 11 Apr 2026 05:30
 
-**From:** David Gevorkian
+**From:** David Gevorkian [[03-People/David-Gevorkian]]
 **Chat:** 154525071589538
 
 ## Message
@@ -23,7 +23,7 @@ Ok great. Good news
 ## Classification
 
 **Projects:** None identified
-**People:** David-Gevorkian
+**People:** [[03-People/David-Gevorkian]]
 **Tags:** None
 
 ## Action items

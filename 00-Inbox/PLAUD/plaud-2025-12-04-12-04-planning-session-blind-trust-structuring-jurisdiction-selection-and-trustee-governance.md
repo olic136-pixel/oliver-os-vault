@@ -8,7 +8,7 @@ duration: 19 min
 projects:
   - Libertas-Practice
 people:
-  - oliver-cook
+  - Oliver-Cook-KC
 jurisdictions:
   - UK
   - UAE
@@ -269,5 +269,5 @@ Speaker 1: But yeah, that's the principle, that's the concept. Okay. Does that h
 - Draft trust deed with blind trust provisions
 - Obtain tax advice for beneficiaries including non-dom implications
 
-**Projects:** Libertas-Practice
-**People:** Oliver Cook
+**Projects:** [[01-Projects/Libertas-Practice]]
+**People:** [[02-Entities/Oliver-Cook-KC]]

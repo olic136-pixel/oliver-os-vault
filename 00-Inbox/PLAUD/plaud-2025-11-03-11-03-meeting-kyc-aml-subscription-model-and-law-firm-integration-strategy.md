@@ -9,8 +9,8 @@ projects:
   - Qanun-Platform
   - Dubai-Law-Firm
 people:
-  - oliver-cook
-  - tai
+  - Oliver-Cook-KC
+  - Tai
 jurisdictions:
   - England & Wales
   - UAE
@@ -189,5 +189,5 @@ Speaker 2: same page okay so it was yeah we've got enough to be getting on
 - Integrate law firm-issued client care letter and terms of engagement into the platform
 - Finalise UI/UX for separating sign-up from case creation
 
-**Projects:** Qanun-Platform, Dubai-Law-Firm
-**People:** oliver-cook, tai
+**Projects:** [[01-Projects/Qanun-Platform]], [[01-Projects/Dubai-Law-Firm]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Tai]]

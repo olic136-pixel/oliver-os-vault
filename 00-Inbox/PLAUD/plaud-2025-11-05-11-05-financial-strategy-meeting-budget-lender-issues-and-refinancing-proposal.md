@@ -8,7 +8,7 @@ duration: 12 min
 projects:
   - Libertas-Practice
 people:
-  - oliver-cook
+  - Oliver-Cook-KC
 jurisdictions:
   - England & Wales
 tags:
@@ -133,5 +133,5 @@ Speaker 2: you can't we can't have that uh can't have a gap right i'm hoping i c
 - Plan transaction logistics to avoid a funding gap between new credit line and existing debt payoff
 - Address the lender's likely objection that Regency is using debt rather than own capital
 
-**Projects:** Libertas-Practice
-**People:** oliver-cook
+**Projects:** [[01-Projects/Libertas-Practice]]
+**People:** [[02-Entities/Oliver-Cook-KC]]

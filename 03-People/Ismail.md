@@ -41,3 +41,4 @@ Connected to the school project under Humanate. Full name and role to be confirm
 - [ ] Confirm full name
 - [ ] Confirm role in school project
 - [ ] Enrich from WhatsApp integration
+| 2026-01 → 2026-03 | WhatsApp | 1-on-1 chat — 198 messages |

@@ -6,7 +6,7 @@ title: "02-12 Weekly Meeting: Project Strategy, Go-to-Market, and Team Alignment
 date: 2026-02-12
 duration: 27 min
 projects: [TradeDar]
-people: [oliver-cook, ik-imran, david-gevorkian, ahmed, jez]
+people: [oliver-cook, IK, david-gevorkian, ahmed, jez]
 jurisdictions: [UAE, UK, US]
 tags: [go-to-market, team-alignment, one-pager, regulatory, collective-investment-scheme]
 status: active
@@ -165,5 +165,5 @@ Speaker 3: I've cut him off, wait.
 - Regulatory risk around collective investment scheme classification needs resolution
 - No defined launch timeline or milestones yet
 
-**Projects:** TradeDar
-**People:** oliver-cook, ik-imran, david-gevorkian, ahmed, jez
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]], [[03-People/David-Gevorkian]], [[03-People/Ahmed]], [[03-People/Jez-Noah-Ali]]

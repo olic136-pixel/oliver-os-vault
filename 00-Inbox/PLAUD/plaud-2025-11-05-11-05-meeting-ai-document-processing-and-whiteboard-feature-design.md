@@ -8,9 +8,9 @@ duration: 52 min
 projects:
   - Qanun-Platform
 people:
-  - oliver-cook
-  - gabe
-  - tai
+  - Oliver-Cook-KC
+  - Gabe
+  - Tai
 jurisdictions:
   - UAE
 tags:
@@ -260,5 +260,5 @@ Speaker 2: Well, I like to know about things. Yeah, that's good. Alright, good m
 - Resolve collaborative whiteboard model (personal, shared, approval-based)
 - Define whether whiteboard elements will be static or interactive
 
-**Projects:** Qanun-Platform
-**People:** oliver-cook, gabe, tai
+**Projects:** [[01-Projects/Qanun-Platform]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Tai]]

@@ -72,3 +72,6 @@ See [[04-Jurisdictions/UK-FCA-CQC]] for full CQC framework.
 |------|----------|---------|
 | | Care home vertical as initial focus | Team |
 | | Qlarifai Holdings / Qlarifai Care two-entity structure | Team |
+
+## Recordings
+- [[00-Inbox/PLAUD/plaud-2026-03-18-03-18-weekly-meeting-user-acquisition-beta-testing-and-go-to-market-strategy|03-18 Weekly Meeting: User Acquisition, Beta Testing, and Go-to-Market Strategy — 2026-03-18]]

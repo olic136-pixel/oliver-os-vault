@@ -179,5 +179,5 @@ Speaker 4: I'll probably just call him.
 - Pricing model (freemium vs tiered subscriptions) not formally decided
 - Platform positioning as "operating system" vs "investment readiness tool" remains ambiguous
 
-**Projects:** Human8, Human8-BIT
-**People:** oliver-cook, gabe, ammar
+**Projects:** [[01-Projects/Human8]], [[01-Projects/Human8-BIT]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Ammar]]

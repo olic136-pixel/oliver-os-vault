@@ -81,3 +81,13 @@ Whitepaper and TPPA (Token Purchase and Pre-sale Agreement) documentation — mu
 - Synthetic Stock Exposure Regulatory Controls Framework produced
 - Dentons BVI utility token opinion obtained (drafting error noted)
 - Multi-round whitepaper and TPPA consistency audits conducted
+
+## Recordings
+- [[00-Inbox/PLAUD/plaud-2026-03-18-03-18-consultation-crypto-project-licensing-in-el-salvador|03-18 Consultation: Crypto Project Licensing in El Salvador — 2026-03-18]]
+- [[00-Inbox/PLAUD/plaud-2026-03-02-03-02-project-meeting-company-setup-token-launch-sequencing-pr-narrative-and-liquidity-strategy|03-02 Project Meeting: Company Setup, Token Launch Sequencing, PR Narrative, and Liquidity Strategy — 2026-03-02]]
+- [[00-Inbox/PLAUD/plaud-2026-02-04-02-04-meeting-mena-rwa-platform-strategy-licensing-and-seed-fundraising-plan|02-04 Meeting: MENA RWA Platform Strategy, Licensing, and Seed Fundraising Plan — 2026-02-04]]
+- [[00-Inbox/PLAUD/plaud-2026-02-01-02-01-strategy-meeting-rwa-tokenization-licensing-vara-adgm-market-entry-pakistan-uae-qatar-and-partnership-jv-options|02-01 Strategy Meeting: RWA Tokenization, Licensing (VARA/ADGM), Market Entry (Pakistan, UAE, Qatar), and Partnership/JV Options — 2026-02-01]]
+- [[00-Inbox/PLAUD/plaud-2026-01-30-01-30-meeting-dubai-real-estate-tokenization-vara-licensing-spv-model-and-secondary-market-strategy|01-30 Meeting: Dubai Real Estate Tokenization, VARA Licensing, SPV Model, and Secondary Market Strategy — 2026-01-30]]
+- [[00-Inbox/PLAUD/plaud-2026-01-12-01-12-consultation-bvi-token-issuer-panama-software-ip-structure-for-utility-token-hydra-compliance-banking-and-governance|01-12 Consultation: BVI Token Issuer & Panama Software/IP Structure for Utility Token (Hydra) — Compliance, Banking, and Governance — 2026-01-12]]
+- [[00-Inbox/PLAUD/plaud-2025-12-04-12-04-meeting-tokenization-forex-trading-and-fund-structure|12-04 Meeting: Tokenization, Forex Trading, and Fund Structure — 2025-12-04]]
+- [[00-Inbox/PLAUD/plaud-2025-11-06-11-06-meeting-difc-law-firm-launch-emi-acquisition-valuation-and-legal-ai-q-ai-partnerships|11-06 Meeting: DIFC Law Firm Launch, EMI Acquisition Valuation, and Legal AI (Q-AI) Partnerships — 2025-11-06]]

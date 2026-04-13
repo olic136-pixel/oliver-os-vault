@@ -142,6 +142,6 @@ Speaker 2: Alright, cheers.
 - Verify Interpol Red Notice via immigration system check once engaged
 - Request and review all case files from the current lawyer
 
-**Projects:** Dubai-Law-Firm
-**People:** oliver-cook
+**Projects:** [[01-Projects/Dubai-Law-Firm]]
+**People:** [[02-Entities/Oliver-Cook-KC]]
 Speaker 1: Thank you.

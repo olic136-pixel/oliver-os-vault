@@ -135,5 +135,5 @@ Speaker 2: let's do that tomorrow then yeah okay cool i'll ping you perfect than
 - Partnership one-pager on equity, team structure and funding still to be drafted
 - White-label product deck (KYC, wallet, platform) to be sent to David
 
-**Projects:** TradeDar
-**People:** oliver-cook, david-gevorkian, ik-imran
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/David-Gevorkian]], [[03-People/IK]]

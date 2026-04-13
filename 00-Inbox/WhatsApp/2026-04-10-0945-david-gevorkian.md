@@ -13,7 +13,7 @@ tags: ["action-item", "whatsapp", "inbox"]
 
 # WhatsApp — David Gevorkian — 10 Apr 2026 09:45
 
-**From:** David Gevorkian
+**From:** David Gevorkian [[03-People/David-Gevorkian]]
 **Chat:** 154525071589538
 
 ## Message
@@ -23,7 +23,7 @@ please join
 ## Classification
 
 **Projects:** None identified
-**People:** David-Gevorkian
+**People:** [[03-People/David-Gevorkian]]
 **Tags:** action-item
 
 ## Action items

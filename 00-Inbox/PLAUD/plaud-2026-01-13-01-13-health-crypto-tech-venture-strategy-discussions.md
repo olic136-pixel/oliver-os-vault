@@ -386,5 +386,5 @@ Speaker: Thank you.
 - Write to Land Registry solicitors regarding the disputed property
 - Draw a diagram of the agreed corporate structure and share with the group
 
-**Projects:** Human8, Fuutura-Exchange
-**People:** oliver-cook, ammar, tai
+**Projects:** [[01-Projects/Human8]], [[01-Projects/Fuutura-Exchange]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Ammar]], [[03-People/Tai]]

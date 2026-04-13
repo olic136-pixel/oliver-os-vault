@@ -644,5 +644,5 @@ Speaker 5: I turned the corner, and you had your kick, that's it, top, let's fig
 - Financial proformas and ROI calculations needed for investor pitches
 - Lovable MVP link to be shared with Gabe and credits added
 
-**Projects:** Human8, Human8-BIT
-**People:** oliver-cook, gabe, ammar
+**Projects:** [[01-Projects/Human8]], [[01-Projects/Human8-BIT]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Ammar]]

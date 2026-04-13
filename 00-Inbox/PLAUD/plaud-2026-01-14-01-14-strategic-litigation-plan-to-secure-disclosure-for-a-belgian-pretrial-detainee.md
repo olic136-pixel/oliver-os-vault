@@ -137,5 +137,5 @@ Speaker 3: You too.
 - New bail/release application to be filed before the Belgian court imminently
 - Cost estimate to be provided once papers are received
 
-**Projects:** Libertas-Practice
-**People:** oliver-cook
+**Projects:** [[01-Projects/Libertas-Practice]]
+**People:** [[02-Entities/Oliver-Cook-KC]]

@@ -4,7 +4,7 @@ entities:
   - Human8
 jurisdictions:
   - UK-FCA-CQC
-last_reviewed: '2026-04-08'
+last_reviewed: '2026-04-12'
 people:
   - Gabe
   - Ammar
@@ -12,50 +12,93 @@ projects:
   - Human8
   - Human8-Roblodex
   - Human8-Nodex
-source: manual
+  - Human8-BIT
+  - Human8-Qlarifai
+source: whatsapp-enriched
 status: active
 tags:
   - human8
   - uk
-  - collaboration
+  - venture-studio
 type: entity
 ---
 
 # Human8
 
-**Type:** UK company — project collaboration vehicle
-
-## Incorporation
-- **Jurisdiction:** United Kingdom
-- **Purpose:** Joint project vehicle for Oliver, Gabe, and Ammar's collaborative initiatives
-- **Status:** Incorporated
+**Type:** UK company — intelligence-led venture studio
+**Registered Name:** HUMAN8 LIMITED
+**Registered Address:** 3rd Floor, 86-90 Paul Street, London EC2A 4NE
+**HMRC UTR:** 40209 13987 | Tax Office: 623
+**Incorporated:** March 2026
+**Tagline:** "Designing Thinking Systems"
 
 ## Ownership
+
 | Person / Entity | % | Notes |
 |-----------------|---|-------|
-| Oliver Cook | 33.3 | Equal share |
-| Gabe | 33.3 | Equal share |
-| Ammar | 33.3 | Equal share |
+| Oliver Cook KC | 33.3 | IP architecture, legal structuring |
+| [[03-People/Gabe]] | 33.3 | Systems architecture, operational intelligence |
+| [[03-People/Ammar]] | 33.3 | Experience architecture, strategic alignment |
 
-## Directors / Officers
-| Name | Role |
-|------|------|
-| TBC | |
+## Email Domains
+oliver@humanateventures.com, connect@humanateventures.com, invest@humanateventures.com, investor@humanateventures.com
 
-## Purpose
-Human8 is the UK company vehicle for collaborative projects between Oliver, Gabe, and Ammar. Distinct from Qlarifai — Tai is not a Human8 shareholder. Current active sub-projects: Roblodex and Nodex. Additional projects may be identified through WhatsApp group integration.
+## Four Pillars
 
-## Sub-projects
-- [[01-Projects/Human8-Roblodex]]
-- [[01-Projects/Human8-Nodex]]
+1. **Studio** — Research & design (vision to infrastructure)
+2. **Technologies** — Infrastructure to operations + product builds. "Designing Thinking Systems"
+3. **Spaces** — Physical hubs (future expansion)
+4. **Capital/Acquisitions** — Tech acquisition aligned with ecosystem
+
+## IP Concepts
+
+- **CIRCA** — Multidimensional venture scoring framework (Coherence, Capability, Validation, Viability, Risk Awareness)
+- **RBC** — Regenerative Business Cycle
+- **BIT** — Business Intelligence Twin (conversational AI venture profile)
+- **Compounding Intelligence** — Architecture that makes intelligence compound through usage
+- **Origin Token / GEMs** — Growth-Encouraged Memorabilia (soul-bound NFT accreditation, non-financial)
+
+## Product Portfolio
+
+| Product | Status |
+|---------|--------|
+| [[01-Projects/Human8-Nodex]] | Architecture design phase |
+| [[01-Projects/Human8-Roblodex]] | SoW complete, revenue model in dev |
+| [[01-Projects/Human8-BIT]] | MVP built, enrichment ongoing |
+| [[01-Projects/Human8-Qlarifai]] | Sales activation |
+| Better360 | v0.85 demo |
+| Thrive Hub | Concept (JV with GEH) |
+| Humanate Relay | Concept |
+
+## Key Partnerships
+
+| Partner | Status |
+|---------|--------|
+| [[03-People/Ali-Qatar]] / GEH | Active — Qatar opportunity |
+| Tavora Games | Partnership signed |
+| Social Brokers | Strategic partner (£30M social value) |
+| Mark Butchard | Distribution — Goldman Sachs programme |
+| Baobab Network | White-label prospect (African accelerators) |
+| Inspired.ch | Stalled — NDA refused |
+| Redcube/Rosebay Tech | Share-swap proposed |
+| Catherine Earl / 940 Capital | NDA signed |
+
+## Case Studies
+
+- AI-assisted coffee roasting ecosystem (World Coffee Innovation Awards 2024, McLaren/NEOM presentation)
+- Pocket Cafe Bar → lifestyle hospitality brand (seven-figure revenue)
+- City-centre mixed-use block → hotel + restaurant + convenience store
+- The Root Cause — regenerative supermarket (ex-MD Iceland Foods)
 
 ## Note on Qlarifai relationship
-Human8 and Qlarifai Holdings are **separate entities** with overlapping but not identical shareholders. Oliver, Gabe, and Ammar are in both. Tai is only in Qlarifai. Human8 does not own or control Qlarifai. There may be collaboration between Human8 projects and Qlarifai projects given the personnel overlap.
+Human8 and Qlarifai Holdings are **separate entities** with overlapping but not identical shareholders. Oliver, Gabe, and Ammar are in both. Tai is only in Qlarifai. Human8 does not own or control Qlarifai.
 
-## Projects
+## Sub-projects
 - [[01-Projects/Human8]]
 - [[01-Projects/Human8-Roblodex]]
 - [[01-Projects/Human8-Nodex]]
+- [[01-Projects/Human8-BIT]]
+- [[01-Projects/Human8-Qlarifai]]
 
-## Notes
-Scope of Human8's projects will become clearer once WhatsApp groups and messages are integrated into the vault pipeline.
+## Projects
+- [[01-Projects/Human8]]

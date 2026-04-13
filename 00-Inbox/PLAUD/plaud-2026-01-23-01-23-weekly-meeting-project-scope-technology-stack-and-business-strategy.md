@@ -145,5 +145,5 @@ Speaker 1: Thank you.
 - Evaluate tech stack for chain-agnostic capabilities and prioritize non-TON chain integration
 - Specify approach to push liquidity via subsidiaries including legal implications
 
-**Projects:** Fuutura-Exchange
-**People:** oliver-cook, ahmed, ik-imran
+**Projects:** [[01-Projects/Fuutura-Exchange]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Ahmed]], [[03-People/IK]]

@@ -16,9 +16,9 @@ jurisdictions:
   - Saudi Arabia
   - Abu Dhabi
 people:
-  - oliver-cook
-  - ik-imran
-  - david-gevorkian
+  - Oliver-Cook-KC
+  - IK
+  - David-Gevorkian
 tags:
   - law-firm-setup
   - emi-acquisition
@@ -223,5 +223,5 @@ Speaker 1: We're before the traffic hits, which is every day, every minute betwe
 - Introduction to Rothberg/Tom to be arranged at ICD Brookfield upon Oliver's return
 - Binance/BNB engagement structure (JV vs buyout vs partnership) undecided
 
-**Projects:** Dubai-Law-Firm, Qanun-Platform, Fuutura-Token
-**People:** Oliver Cook, IK-Imran, David Gevorkian
+**Projects:** [[01-Projects/Dubai-Law-Firm]], [[01-Projects/Qanun-Platform]], [[01-Projects/Fuutura-Token]]
+**People:** [[02-Entities/Oliver-Cook-KC]], IK-Imran, [[03-People/David-Gevorkian]]

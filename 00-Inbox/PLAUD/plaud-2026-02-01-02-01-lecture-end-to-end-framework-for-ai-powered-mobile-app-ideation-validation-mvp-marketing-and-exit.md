@@ -7,7 +7,7 @@ date: 2026-02-01
 duration: 111 min
 projects: []
 people:
-  - oliver-cook
+  - Oliver-Cook-KC
 jurisdictions: []
 tags:
   - AI-apps
@@ -320,4 +320,4 @@ Speaker 3: Sun says, two questions, please. What is the correct spelling of a RO
 - None identified
 
 **Projects:**
-**People:** oliver-cook
+**People:** [[02-Entities/Oliver-Cook-KC]]

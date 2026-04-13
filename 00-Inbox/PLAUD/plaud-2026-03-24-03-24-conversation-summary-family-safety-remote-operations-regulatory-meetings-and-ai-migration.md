@@ -132,5 +132,5 @@ Speaker 1: Plural live.
 - DIFC project timelines running slow due to security situation
 - Short-term rental operator seeing significantly negative numbers
 
-**Projects:** Abu-Dhabi-Relocation, Wife-Health, Fuutura-Exchange
-**People:** oliver-cook, ik-imran
+**Projects:** [[01-Projects/Abu-Dhabi-Relocation]], [[01-Projects/Wife-Health]], [[01-Projects/Fuutura-Exchange]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]]

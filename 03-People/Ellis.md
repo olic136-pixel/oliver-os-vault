@@ -45,3 +45,4 @@ Details pending — enrich from WhatsApp conversations once pipeline is live.
 ## Open items
 - [ ] Confirm Ellis's role in Fuutura — token vs exchange vs both
 - [ ] Enrich from WhatsApp integration
+| 2025-12 → 2026-04 | WhatsApp | Fuutura Marketing 26 group — 726 messages |

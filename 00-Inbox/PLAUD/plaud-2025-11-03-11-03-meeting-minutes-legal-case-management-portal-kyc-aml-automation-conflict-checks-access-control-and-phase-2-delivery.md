@@ -9,9 +9,9 @@ projects:
   - Qanun-Platform
   - Dubai-Law-Firm
 people:
-  - oliver-cook
-  - tai
-  - gabe
+  - Oliver-Cook-KC
+  - Tai
+  - Gabe
 jurisdictions:
   - England & Wales
   - UAE
@@ -270,5 +270,5 @@ Speaker 1: will be need to be a description of the case. yeah and obviously he d
 - Define pricing tiers and subscription parameters
 - Plan anti-spam measures for public-facing sign-up
 
-**Projects:** Qanun-Platform, Dubai-Law-Firm
-**People:** oliver-cook, tai, gabe
+**Projects:** [[01-Projects/Qanun-Platform]], [[01-Projects/Dubai-Law-Firm]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Tai]], [[03-People/Gabe]]

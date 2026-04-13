@@ -9,9 +9,9 @@ projects:
   - Fuutura-Exchange
   - TradeDar
 people:
-  - oliver-cook
-  - ik-imran
-  - david-gevorkian
+  - Oliver-Cook-KC
+  - IK
+  - David-Gevorkian
 jurisdictions:
   - UAE
   - ADGM
@@ -158,5 +158,5 @@ Speaker 4: Yeah. I'll stay on. All right. All right, guys. We'll jump off. Good 
 - TopCo structure, equity plan, and placeholder name to be proposed
 - Jurisdiction selection for dual-licensing strategy undecided
 
-**Projects:** Fuutura-Exchange, TradeDar
-**People:** oliver-cook, ik-imran, david-gevorkian
+**Projects:** [[01-Projects/Fuutura-Exchange]], [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]], [[03-People/David-Gevorkian]]

@@ -9,9 +9,9 @@ projects:
   - Human8
   - Human8-BIT
 people:
-  - oliver-cook
-  - gabe
-  - ammar
+  - Oliver-Cook-KC
+  - Gabe
+  - Ammar
 jurisdictions: []
 tags:
   - business-identity
@@ -192,5 +192,5 @@ Speaker 2: And here you are entering your data. You are linking your Stripe acco
 - SDG scoring metrics and weightings still to be detailed
 - Pro forma templates for startups without existing data structures to be designed
 
-**Projects:** Human8, Human8-BIT
-**People:** Oliver Cook, Gabe, Ammar
+**Projects:** [[01-Projects/Human8]], [[01-Projects/Human8-BIT]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Ammar]]

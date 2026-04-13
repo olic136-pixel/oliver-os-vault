@@ -50,3 +50,4 @@ Critical relationship for the Dubai Law Firm — his Emirati status unlocks the 
 - [ ] Confirm his role in the firm structure — equity, income share
 - [ ] ADGM licensing — timeline for expansion via his UAE nationality
 - [ ] Firm name — has this been agreed with Bu Eshaaq?
+| 2025-05 → 2026-04 | WhatsApp | 1-on-1 chat — 785 messages |

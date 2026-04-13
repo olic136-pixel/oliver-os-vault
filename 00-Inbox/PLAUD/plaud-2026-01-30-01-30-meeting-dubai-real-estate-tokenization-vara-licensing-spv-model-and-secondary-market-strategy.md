@@ -9,8 +9,8 @@ projects:
   - Fuutura-Token
   - Fuutura-Exchange
 people:
-  - oliver-cook
-  - ik-imran
+  - Oliver-Cook-KC
+  - IK
 jurisdictions:
   - UAE
   - VARA
@@ -369,5 +369,5 @@ Speaker 2: Bye-bye.
 - Seed round in Qatar: first tranche $1.5M targeting $12.5M post-money
 - Investor materials needed for mid-February crypto fund discussions
 
-**Projects:** Fuutura-Token, Fuutura-Exchange
-**People:** oliver-cook, ik-imran
+**Projects:** [[01-Projects/Fuutura-Token]], [[01-Projects/Fuutura-Exchange]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]]

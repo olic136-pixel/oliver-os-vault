@@ -220,5 +220,5 @@ Speaker 1: They'll ring me after that, yeah? Yeah, yeah, I will do. All right. C
 - Meeting with Julie (ex-CQC) on Monday to discuss potential endorsement
 - Outreach to accountants managing sponsorship licenses for care homes (Ammar has contact in Preston)
 
-**Projects:** Human8-Qlarifai
-**People:** oliver-cook, gabe, ammar, tai
+**Projects:** [[01-Projects/Human8-Qlarifai]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Ammar]], [[03-People/Tai]]

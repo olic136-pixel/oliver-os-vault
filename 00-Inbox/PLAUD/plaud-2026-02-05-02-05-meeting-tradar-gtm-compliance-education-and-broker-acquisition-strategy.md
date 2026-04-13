@@ -293,5 +293,5 @@ Speaker 1: See you soon, man. Thanks for that. Ciao. How's it going?
 - Influencer acquisition plan targeting FX/finance KOLs needs development
 - In-person whiteboarding session in Dubai to align marketing with regulatory constraints
 
-**Projects:** TradeDar
-**People:** oliver-cook, david-gevorkian, ahmed
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/David-Gevorkian]], [[03-People/Ahmed]]

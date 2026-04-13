@@ -163,5 +163,5 @@ Speaker 1: imran does work some friday morning yeah yeah and then uh back in on 
 - Issuer license pathway and SCA engagement needs sequencing
 - Define go-to-market for real estate: target jurisdictions, first asset pipeline, timeline
 
-**Projects:** Fuutura-Exchange, Fuutura-Token
-**People:** oliver-cook, ahmed, david-gevorkian
+**Projects:** [[01-Projects/Fuutura-Exchange]], [[01-Projects/Fuutura-Token]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Ahmed]], [[03-People/David-Gevorkian]]

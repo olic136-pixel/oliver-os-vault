@@ -258,5 +258,5 @@ Speaker 1: Yeah. All right. OK. Food for thought. OK, well, I'll.
 - Personal financial relief for Trevor not addressed in current proposal
 - Formulate suggestion for Imran regarding path forward
 
-**Projects:** Libertas-Practice
-**People:** oliver-cook, ik-imran
+**Projects:** [[01-Projects/Libertas-Practice]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]]

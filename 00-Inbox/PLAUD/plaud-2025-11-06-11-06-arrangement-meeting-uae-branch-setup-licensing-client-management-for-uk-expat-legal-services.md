@@ -9,7 +9,7 @@ projects:
   - Dubai-Law-Firm
   - Abu-Dhabi-Relocation
 people:
-  - oliver-cook
+  - Oliver-Cook-KC
 jurisdictions:
   - UAE
   - DIFC
@@ -422,5 +422,5 @@ Speaker 4: So could you start? Can you try and start? I don't know what's going 
 - Hold Zoom meeting with new staff candidates
 - Define standard operating procedures for cross-border personal injury cases
 
-**Projects:** Dubai-Law-Firm, Abu-Dhabi-Relocation
-**People:** oliver-cook
+**Projects:** [[01-Projects/Dubai-Law-Firm]], [[01-Projects/Abu-Dhabi-Relocation]]
+**People:** [[02-Entities/Oliver-Cook-KC]]

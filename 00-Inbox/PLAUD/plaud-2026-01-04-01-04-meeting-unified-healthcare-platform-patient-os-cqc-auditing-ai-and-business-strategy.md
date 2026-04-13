@@ -10,11 +10,11 @@ projects:
   - Human8-BIT
   - Human8-School
 people:
-  - oliver-cook
-  - gabe
-  - ammar
-  - ismail
-  - tai
+  - Oliver-Cook-KC
+  - Gabe
+  - Ammar
+  - Ismail
+  - Tai
 jurisdictions:
   - UK
 tags:
@@ -473,5 +473,5 @@ Speaker 3: You boys.
 - Healthcare pitch to Dr. Hamid to be created after JV with Tai
 - Oliver to lead school lease project legal/structural work
 
-**Projects:** Human8, Human8-BIT, Human8-School
-**People:** Oliver Cook, Gabe, Ammar, Ismail, Tai
+**Projects:** [[01-Projects/Human8]], [[01-Projects/Human8-BIT]], [[01-Projects/Human8-School]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Ammar]], [[03-People/Ismail]], [[03-People/Tai]]

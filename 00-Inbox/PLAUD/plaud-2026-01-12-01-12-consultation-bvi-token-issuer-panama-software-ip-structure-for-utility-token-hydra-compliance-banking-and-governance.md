@@ -79,5 +79,5 @@ Speaker 2: Thank you. Bye bye bye.
 - BVI legal advice needed to confirm Hydra qualifies as a utility token
 - Master service agreement between BVI and Panama entities to be drafted
 
-**Projects:** Fuutura-Token
-**People:** oliver-cook
+**Projects:** [[01-Projects/Fuutura-Token]]
+**People:** [[02-Entities/Oliver-Cook-KC]]

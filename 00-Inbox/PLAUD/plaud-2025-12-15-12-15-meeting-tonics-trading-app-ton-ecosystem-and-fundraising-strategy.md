@@ -8,8 +8,8 @@ duration: 36 min
 projects:
   - TradeDar
 people:
-  - oliver-cook
-  - ik-imran
+  - Oliver-Cook-KC
+  - IK
 jurisdictions:
   - Dubai
 tags:
@@ -175,5 +175,5 @@ Speaker 4: that's really helpful thanks very much. thanks very much cheers guys 
 - David advising 4-5 similar projects; team needs to differentiate to be selected for support
 - Live launch targeted for second week of January (Q1 2026)
 
-**Projects:** TradeDar
-**People:** Oliver Cook, IK-Imran
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], IK-Imran

@@ -8,8 +8,8 @@ duration: 29 min
 projects:
   - Dubai-Law-Firm
 people:
-  - oliver-cook
-  - ik-imran
+  - Oliver-Cook-KC
+  - IK
 jurisdictions:
   - DIFC
   - UK
@@ -215,5 +215,5 @@ Speaker 1: All right, perfect. Yeah, I'll get that out. If you send me that emai
 - DIFC pre-clearance decision expected by end of week (Thursday/Friday)
 - Target: foundation and PC setup by end of February (Ramadan-dependent)
 
-**Projects:** Dubai-Law-Firm
-**People:** oliver-cook, ik-imran
+**Projects:** [[01-Projects/Dubai-Law-Firm]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]]

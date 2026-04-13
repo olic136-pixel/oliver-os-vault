@@ -6,7 +6,7 @@ title: "03-08 Meeting: Equity Split, Agency Side Agreement, Capital Raise, and G
 date: 2026-03-08
 duration: 41 min
 projects: [TradeDar]
-people: [oliver-cook, david-gevorkian, ik-imran, ahmed]
+people: [oliver-cook, david-gevorkian, IK, ahmed]
 jurisdictions: [UAE]
 tags: [equity-split, agency-side-agreement, capital-raise, governance, board-composition, performance-ratchet, term-sheet, dividend-policy, escrow]
 status: active
@@ -238,5 +238,5 @@ Speaker 1: Guys, I'll talk to you. Okay, I'll stay in touch.
 - Board member names and independence criteria undecided
 - Alignment with Nipo on dilution mechanics still required
 
-**Projects:** TradeDar
-**People:** oliver-cook, david-gevorkian, ik-imran, ahmed
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/David-Gevorkian]], [[03-People/IK]], [[03-People/Ahmed]]

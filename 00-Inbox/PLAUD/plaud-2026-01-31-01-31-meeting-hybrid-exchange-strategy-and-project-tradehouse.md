@@ -9,10 +9,10 @@ projects:
   - Fuutura-Exchange
   - TradeDar
 people:
-  - oliver-cook
-  - ik-imran
-  - david-gevorkian
-  - ahmed
+  - Oliver-Cook-KC
+  - IK
+  - David-Gevorkian
+  - Ahmed
 jurisdictions:
   - UAE
   - ADGM
@@ -325,5 +325,5 @@ Speaker 4: Perfect. All right guys, well really great meeting. Soum let's uh, le
 - One-pager/technical schematic for vault architecture needed
 - Revenue generation target: 3-6 months
 
-**Projects:** Fuutura-Exchange, TradeDar
-**People:** oliver-cook, ik-imran, david-gevorkian, ahmed
+**Projects:** [[01-Projects/Fuutura-Exchange]], [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]], [[03-People/David-Gevorkian]], [[03-People/Ahmed]]

@@ -8,8 +8,8 @@ duration: 18 min
 projects:
   - Dubai-Law-Firm
 people:
-  - oliver-cook
-  - ik-imran
+  - Oliver-Cook-KC
+  - IK
 jurisdictions:
   - DIFC
   - UK
@@ -165,5 +165,5 @@ Speaker 2: yeah literally just naming them thank you whoever whoever i'm address
 - KYC documents to be compiled for all foundation participants
 - Informal DIFC pre-clearance on disqualification pending
 
-**Projects:** Dubai-Law-Firm
-**People:** oliver-cook, ik-imran
+**Projects:** [[01-Projects/Dubai-Law-Firm]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]]

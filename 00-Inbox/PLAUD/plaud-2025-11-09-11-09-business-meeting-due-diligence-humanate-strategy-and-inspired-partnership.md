@@ -8,10 +8,10 @@ duration: 73 min
 projects:
   - Human8
 people:
-  - oliver-cook
-  - ismail
-  - gabe
-  - ammar
+  - Oliver-Cook-KC
+  - Ismail
+  - Gabe
+  - Ammar
 jurisdictions:
   - UK
   - Switzerland
@@ -275,5 +275,5 @@ Speaker 2: gonna get a fat bill i only sent it to you guys all right no use them
 - Case studies for website still being developed
 - Awaiting NDA response from Maximilian/Inspired
 
-**Projects:** Human8
-**People:** Oliver Cook, Ismail, Gabe, Ammar
+**Projects:** [[01-Projects/Human8]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Ismail]], [[03-People/Gabe]], [[03-People/Ammar]]

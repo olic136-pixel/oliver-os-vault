@@ -211,5 +211,5 @@ Speaker 2: definitely and then obviously that thought process about who we're go
 - Outreach list for pilot clinics needs owners and target dates
 - UK-specific compliance frameworks beyond ISO (DTAC, NHS approvals) need identification and timelines
 
-**Projects:** Human8
-**People:** oliver-cook, gabe, ammar, tai
+**Projects:** [[01-Projects/Human8]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Ammar]], [[03-People/Tai]]

@@ -8,7 +8,7 @@ duration: 70 min
 projects:
   - Libertas-Practice
 people:
-  - oliver-cook
+  - Oliver-Cook-KC
 jurisdictions:
   - UK
   - Australia
@@ -321,5 +321,5 @@ Speaker 2: put that in you know like when you deal with paragraph 12 where she s
 - Financial needs statement to be prepared and filed
 - Supporting evidence (messages, Facebook logs, emails) to be compiled
 
-**Projects:** Libertas-Practice
-**People:** Oliver Cook
+**Projects:** [[01-Projects/Libertas-Practice]]
+**People:** [[02-Entities/Oliver-Cook-KC]]

@@ -9,9 +9,9 @@ projects:
   - Qanun-Platform
   - Dubai-Law-Firm
 people:
-  - oliver-cook
-  - tai
-  - gabe
+  - Oliver-Cook-KC
+  - Tai
+  - Gabe
 jurisdictions:
   - UAE
 tags:
@@ -463,5 +463,5 @@ Speaker 4: We lost Oswald. We lost the boss over on our own set still.
 - Resolve terminology confusion between "case", "action", and "ticket"
 - Assign responsibilities for extraction, chunking, and onboarding steps
 
-**Projects:** Qanun-Platform, Dubai-Law-Firm
-**People:** oliver-cook, tai, gabe
+**Projects:** [[01-Projects/Qanun-Platform]], [[01-Projects/Dubai-Law-Firm]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Tai]], [[03-People/Gabe]]

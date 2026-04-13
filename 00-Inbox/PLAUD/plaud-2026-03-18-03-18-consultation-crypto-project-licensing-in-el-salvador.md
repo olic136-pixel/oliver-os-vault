@@ -167,5 +167,5 @@ Speaker 3: Yeah, You too. Thank you for taking the time. Thanks.
 - Decision pending on online vs traditional company formation route
 - Power of Attorney drafting if traditional route chosen
 
-**Projects:** Fuutura-Exchange, Fuutura-Token
-**People:** oliver-cook
+**Projects:** [[01-Projects/Fuutura-Exchange]], [[01-Projects/Fuutura-Token]]
+**People:** [[02-Entities/Oliver-Cook-KC]]

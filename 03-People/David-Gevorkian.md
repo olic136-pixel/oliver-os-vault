@@ -52,3 +52,4 @@ David leads the business as CEO and is the Group B representative. The CEO Perfo
 ## Open items with David
 - [ ] Raise — confirm CEO role in investor presentations
 - [ ] Ratchet mechanics — confirm David's understanding and sign-off
+| 2026-03 → 2026-04 | WhatsApp | David TON foundation 1-on-1 chat — 862 messages |

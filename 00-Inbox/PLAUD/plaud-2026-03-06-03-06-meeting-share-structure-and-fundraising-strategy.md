@@ -6,7 +6,7 @@ title: "03-06 Meeting: Share Structure and Fundraising Strategy"
 date: 2026-03-06
 duration: 29 min
 projects: [TradeDar]
-people: [oliver-cook, david-gevorkian, ik-imran, ahmed]
+people: [oliver-cook, david-gevorkian, IK, ahmed]
 jurisdictions: [UAE]
 tags: [equity-structure, performance-ratchet, KPI-milestones, fundraising, dilution, valuation, term-sheet]
 status: active
@@ -135,5 +135,5 @@ Speaker 2: Sorry, I'm just talking to my daughter, who appears to be emptying bi
 - David to brief Ahmed and Nipo after Imran discussion
 - Fundraising valuation mechanics ($70M target) and dilution math still unresolved
 
-**Projects:** TradeDar
-**People:** oliver-cook, david-gevorkian, ik-imran, ahmed
+**Projects:** [[01-Projects/TradeDar]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/David-Gevorkian]], [[03-People/IK]], [[03-People/Ahmed]]

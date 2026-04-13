@@ -13,7 +13,7 @@ tags: ["whatsapp", "inbox"]
 
 # WhatsApp — David Gevorkian — 09 Apr 2026 14:47
 
-**From:** David Gevorkian
+**From:** David Gevorkian [[03-People/David-Gevorkian]]
 **Chat:** 154525071589538
 
 ## Message
@@ -22,8 +22,8 @@ I will be preparing for the old hands tomorrow and I’m briefing the team so th
 
 ## Classification
 
-**Projects:** Libertas-Practice
-**People:** David-Gevorkian
+**Projects:** [[01-Projects/Libertas-Practice]]
+**People:** [[03-People/David-Gevorkian]]
 **Tags:** None
 
 ## Action items

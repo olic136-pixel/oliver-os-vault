@@ -54,3 +54,4 @@ Co-founder relationship. Jez leads the technical build; Oliver leads the regulat
 - [ ] El Salvador operating partner — align on requirements
 - [ ] Whitepaper — finalise consistent version
 - [ ] Intercompany instruments — confirm execution timing
+| 2025-12 → 2026-04 | WhatsApp | Fuutura Marketing 26 group (as Jezz) — 726 messages |

@@ -8,8 +8,8 @@ duration: 21 min
 projects:
   - Libertas-Practice
 people:
-  - oliver-cook
-  - fran
+  - Oliver-Cook-KC
+  - Fran
 jurisdictions:
   - England & Wales
 tags:
@@ -268,5 +268,5 @@ Speaker 2: We've got one for David.
 - Challenge planning permissions on canal-side plot based on defective title
 - Prepare media strategy around upcoming Guardian publication
 
-**Projects:** Libertas-Practice
-**People:** oliver-cook, fran
+**Projects:** [[01-Projects/Libertas-Practice]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Fran]]

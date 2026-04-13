@@ -9,8 +9,8 @@ projects:
   - Fuutura-Token
   - Fuutura-Exchange
 people:
-  - oliver-cook
-  - ik-imran
+  - Oliver-Cook-KC
+  - IK
 jurisdictions:
   - UAE
   - VARA
@@ -309,5 +309,5 @@ Speaker 2: Cheers, guys. Cheers, bye- bye.
 - $1.5M seed tranche via SAFEs at $12.5M post-money valuation pending
 - NDA protocols to be operationalized
 
-**Projects:** Fuutura-Token, Fuutura-Exchange
-**People:** oliver-cook, ik-imran
+**Projects:** [[01-Projects/Fuutura-Token]], [[01-Projects/Fuutura-Exchange]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]]

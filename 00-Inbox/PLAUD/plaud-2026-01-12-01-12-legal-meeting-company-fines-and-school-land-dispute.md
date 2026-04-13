@@ -420,5 +420,5 @@ Speaker 4: RRR
 - Determine definitive ownership of the school property via correct title plan and Land Registry documents
 - Identify final list of former directors for the fiduciary duty claim
 
-**Projects:** Human8-School
-**People:** oliver-cook
+**Projects:** [[01-Projects/Human8-School]]
+**People:** [[02-Entities/Oliver-Cook-KC]]

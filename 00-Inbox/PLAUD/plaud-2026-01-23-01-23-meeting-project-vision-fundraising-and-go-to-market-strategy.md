@@ -283,5 +283,5 @@ Speaker 2: Okay. Cool, perfect. So.
 - Define specific roles, compensation structures, and vesting terms
 - Finalize exact fundraising amount
 
-**Projects:** Fuutura-Exchange
-**People:** oliver-cook, ahmed, ik-imran
+**Projects:** [[01-Projects/Fuutura-Exchange]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Ahmed]], [[03-People/IK]]

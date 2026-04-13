@@ -58,3 +58,4 @@ IK bridges three major active projects. His involvement in both TradeDar (techno
 - [ ] Dubai Law Firm — firm name, structure, timeline
 - [ ] TradeDar — Group A deliverables pre-raise
 - [ ] Fuutura — confirm scope of involvement
+| 2025-12 → 2026-04 | WhatsApp | Fuutura Marketing 26 group (as IKDXB) — 726 messages |

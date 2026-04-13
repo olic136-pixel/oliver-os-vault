@@ -9,10 +9,10 @@ projects:
   - Human8
   - Human8-CRM
 people:
-  - oliver-cook
-  - gabe
-  - ammar
-  - tai
+  - Oliver-Cook-KC
+  - Gabe
+  - Ammar
+  - Tai
 jurisdictions:
   - UK
 tags:
@@ -188,5 +188,5 @@ Speaker 4: you mentioned about the medicus yeah okay yeah we logged in already a
 - Follow-up meeting in a couple of days to review structure
 - Dentist group partnership and BEMA engagement pending internal structure decision
 
-**Projects:** Human8, Human8-CRM
-**People:** oliver-cook, gabe, ammar, tai
+**Projects:** [[01-Projects/Human8]], [[01-Projects/Qlarifai-CRM]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/Gabe]], [[03-People/Ammar]], [[03-People/Tai]]

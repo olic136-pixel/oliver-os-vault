@@ -8,8 +8,8 @@ duration: 20 min
 projects:
   - Dubai-Law-Firm
 people:
-  - oliver-cook
-  - ik-imran
+  - Oliver-Cook-KC
+  - IK
 jurisdictions:
   - DIFC
   - UAE
@@ -162,5 +162,5 @@ Speaker 4: Excellent. Cheers guys very much. Thank you. Cheers everyone.
 - FTA look-through application post-formation
 - Corporate tax registration for each PC within 90 days
 
-**Projects:** Dubai-Law-Firm
-**People:** oliver-cook, ik-imran
+**Projects:** [[01-Projects/Dubai-Law-Firm]]
+**People:** [[02-Entities/Oliver-Cook-KC]], [[03-People/IK]]
