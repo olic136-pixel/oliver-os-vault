@@ -18,7 +18,7 @@ tags: ["whatsapp", "inbox"]
 
 ## Message
 
-How are you ?
+Let me know when you get going we can have a call. Thanks
 
 ## Classification
 
